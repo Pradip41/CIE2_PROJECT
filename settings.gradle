@@ -1,0 +1,2 @@
+rootProject.name = "PROJECT_CIE2"
+include ':app'
